@@ -26,7 +26,10 @@ Things to have installed or set up before diving into the code
 | O(n^n) | ?? |  |
 | O(n!) | Factorial |  |
 
-
+```javascript
+  // O(1)
+  const s = 4 + 3
+```
 
 
 ## Extra Things to Note
