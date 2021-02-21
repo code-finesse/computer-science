@@ -3,6 +3,11 @@
 
 ## Description
 Big O is the language and metric we use to describe the efficiency of algorithms. It can be used to categorize "time complexity" and "space complexity".
+
+    - **Time**: The maximum amount of time it would take the algorithm to solve a problem.
+
+    - **Space**: The maximum amount of computer memory, or RAM, the algorithm needs to run.
+    
 https://www.bigocheatsheet.com/
 
 ## Prerequisite Fundamentals
