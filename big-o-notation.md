@@ -2,7 +2,7 @@
 # Big O Notation
 
 ## Description
-Big O is the language and metric we use to describe the efficiency of algorithms.
+Big O is the language and metric we use to describe the efficiency of algorithms. It can be used to categorize "time complexity" and "space complexity".
 https://www.bigocheatsheet.com/
 
 ## Prerequisite Fundamentals
