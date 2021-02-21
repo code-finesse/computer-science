@@ -37,11 +37,11 @@
 
 - Algorithms are evaluated based on their computational complexity, or the amount of resources it takes to run them. Those resources include:
 
+*see big o notation*
+
     - **Time**: The maximum amount of time it would take the algorithm to solve a problem.
 
     - **Space**: The maximum amount of computer memory, or RAM, the algorithm needs to run.
-
-- Space: The maximum amount of computer memory, or RAM, the algorithm needs to run.
 
 
 <details>
